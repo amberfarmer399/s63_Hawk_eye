@@ -32,7 +32,7 @@ The project, **"Hawk-Eye"**, is a platform for shooting enthusiasts to share, tr
 
 
 ### **Voting System**  
-- **Upvotes:** Highlight impressive targets or creative setups.  
+- **Upvotes:** Highlight impressive targets or creative setups.  ...
 - **Downvotes:** Push less relevant entries lower in rankings.  
 - Votes contribute to leaderboard rankings.  
 
